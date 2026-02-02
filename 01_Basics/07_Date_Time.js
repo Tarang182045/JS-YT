@@ -23,3 +23,4 @@ console.log(newDate.getDay())
 newDate.toLocaleDateString('Default',{
     weekday: "long",
 })
+
